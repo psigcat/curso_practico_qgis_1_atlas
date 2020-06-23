@@ -3,7 +3,7 @@
 
 ## https://github.com/psigcat/curso_practico_qgis_1_atlas
 
-## Tema 3: Model
+## Tema 1: Atles
 https://cibernarium.barcelonactiva.cat/home
 
 #### Resumen del curso
